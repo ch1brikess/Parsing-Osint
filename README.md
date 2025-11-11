@@ -12,7 +12,7 @@ This repository serves as a personal toolkit, bundling some of the most effectiv
 5. [Disclaimer](#disclaimer)
 6. [Contributing](#contributing)
 7. [License](#license)
-8. [RU](# -My-Pasing-Osint-Tools (RU))
+8. [RU](#-My-Pasing-Osint-Tools (RU))
 
 ---
 
