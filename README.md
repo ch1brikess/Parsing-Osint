@@ -41,7 +41,6 @@ This project is a compilation of essential OSINT utilities designed to streamlin
 *Note:* Created exclusively for this project.
 
 ### **tookie-osint (custom edition)**
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/cc00af04-1d5d-47d8-aba5-a4a670d21859" />
 *Original Project:* https://github.com/Alfredredbird/tookie-osint  
 *Description:* A user-friendly OSINT tool similar to Sherlock, designed to discover user accounts across websites. My edits improve stability and add features like Tor support and detailed reporting. Optimized for Python 3.12.
 *Note:* Created by Alfredredbird; my edits are for personal use within this collection.
@@ -150,7 +149,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 *Оригинальный проект:* https://github.com/daprofiler/DaProfiler  
 *Описание:* Расширенный OSINT инструмент для трассировки цифровой идентичности через социальные сети, публичные каталоги и бизнес-листинги. Эта версия была отредактирована для улучшения удобства использования и интеграции в этот набор. Может также выполнять распознавание лиц на профильных фото и генерировать потенциальные адреса электронной почты на основе имен.
 *Примечание:* Требует Python 3.8 и Mozilla Firefox.
-*Изображения:* `da_profiler_before.jpg` (до редактирования) и `da_profiler_after.jpg` (после редактирования).
+<img width="865" height="101" alt="image" src="https://github.com/user-attachments/assets/a9cfca02-0eee-47f2-8d25-755e32dd918b" />
 
 ### **blackbird (+2 моих метода)**
 *Оригинальный проект:* https://github.com/p1ngul1n0/blackbird  
@@ -166,7 +165,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 *Оригинальный проект:* https://github.com/Alfredredbird/tookie-osint  
 *Описание:* Удобный в использовании OSINT инструмент, похожий на Sherlock, предназначенный для поиска учетных записей пользователей на различных сайтах. Мои правки улучшают стабильность и добавляют такие функции, как поддержка Tor и детальные отчеты. Оптимизирован для Python 3.12.
 *Примечание:* Создан Alfredredbird; мои правки предназначены для личного использования в этом наборе.
-*Изображение:* `tookie_osint_intro.jpg`
+<img width="952" height="1300" alt="image" src="https://github.com/user-attachments/assets/22b9a0bd-f5cb-4f11-b63a-5a5f5a70615a" />
 
 ### **windows-utils**
 *Описание:* Набор утилит командной строки в стиле Linux, портированных или адаптированных для среды Windows. Включает инструменты для управления файлами, обработки текста и мониторинга системы, чтобы сделать Windows более похожей на Unix-подобную систему.
