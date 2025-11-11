@@ -34,7 +34,7 @@ This project is a compilation of essential OSINT utilities designed to streamlin
 *Note:* Requires Python 3.8 and Mozilla Firefox.
 <img width="865" height="101" alt="image" src="https://github.com/user-attachments/assets/a9cfca02-0eee-47f2-8d25-755e32dd918b" />
 
-### **Blackbird (+2 my method)**
+### **Blackbird (+2 my methods)**
 *Original Project:* https://github.com/p1ngul1n0/blackbird  
 *Description:* A robust OSINT tool for rapid searches across 600+ platforms using usernames or emails. My modifications enhance its reporting and integration capabilities. Features AI-powered NER for metadata extraction and export options (PDF, CSV, HTTP).
 *Note:* Developed by P1ngul1n0; my edits are for personal use within this collection.
