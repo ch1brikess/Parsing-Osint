@@ -1,4 +1,9 @@
 # -My-Pasing-Osint-Tools
+
+## Languages
+1. [EN](#EN)
+2. [RU](#RU)
+   
 ## EN
 **A powerful collection of OSINT scripts curated and partially modified by ch1brikess.**
 
@@ -12,8 +17,6 @@ This repository serves as a personal toolkit, bundling some of the most effectiv
 5. [Disclaimer](#disclaimer)
 6. [Contributing](#contributing)
 7. [License](#license)
-8. [RU](#RU)
-9. [EN](#EN)
 
 ---
 
