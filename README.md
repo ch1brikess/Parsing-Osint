@@ -23,36 +23,34 @@ This project is a compilation of essential OSINT utilities designed to streamlin
 
 ## Included Tools
 
-### 🖥️ **DaProfiler (custom edition)**
-<img width="865" height="101" alt="image" src="https://github.com/user-attachments/assets/a9cfca02-0eee-47f2-8d25-755e32dd918b" />
+### **DaProfiler (custom edition)**
 *Original Project:* https://github.com/daprofiler/DaProfiler  
 *Description:* An advanced OSINT tool for tracing digital identities through social networks, public directories, and business listings. This version has been edited for improved usability and integration into this toolkit. It can also perform facial recognition on profile photos and generate potential email addresses based on names.
 *Note:* Requires Python 3.8 and Mozilla Firefox.
-<img width="890" height="965" alt="image" src="https://github.com/user-attachments/assets/23f8a5d8-a22e-49f1-9741-22ee2341d57a" />
+<img width="865" height="101" alt="image" src="https://github.com/user-attachments/assets/a9cfca02-0eee-47f2-8d25-755e32dd918b" />
 
-### 🐦 **blackbird (+2 my method)**
-<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6fda9a12-855a-4d88-b49c-a7aadd176cdb" />
+### **blackbird (+2 my method)**
 *Original Project:* https://github.com/p1ngul1n0/blackbird  
 *Description:* A robust OSINT tool for rapid searches across 600+ platforms using usernames or emails. My modifications enhance its reporting and integration capabilities. Features AI-powered NER for metadata extraction and export options (PDF, CSV, HTTP).
 *Note:* Developed by P1ngul1n0; my edits are for personal use within this collection.
-<img width="2048" height="2122" alt="image" src="https://github.com/user-attachments/assets/10846faa-2dcc-4363-bcb3-0fbccb7aa13b" />
+<img width="1920" height="1032" alt="image" src="https://github.com/user-attachments/assets/6fda9a12-855a-4d88-b49c-a7aadd176cdb" />
 
-### 👻 **osint-fantom**
+### **osint-fantom**
 *Description:* An original OSINT script written by me and a collaborator. This tool is unique to this repository and focuses on specialized data aggregation techniques not found in other tools. Its development continues here.
 *Note:* Created exclusively for this project.
 
-### 🍪 **tookie-osint (custom edition)**
+### **tookie-osint (custom edition)**
 <img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/cc00af04-1d5d-47d8-aba5-a4a670d21859" />
 *Original Project:* https://github.com/Alfredredbird/tookie-osint  
 *Description:* A user-friendly OSINT tool similar to Sherlock, designed to discover user accounts across websites. My edits improve stability and add features like Tor support and detailed reporting. Optimized for Python 3.12.
 *Note:* Created by Alfredredbird; my edits are for personal use within this collection.
 <img width="952" height="1300" alt="image" src="https://github.com/user-attachments/assets/22b9a0bd-f5cb-4f11-b63a-5a5f5a70615a" />
 
-### ⚙️ **windows-utils**
+### **windows-utils**
 *Description:* A collection of Linux-style command-line utilities ported or adapted for Windows environments. Includes tools for file management, text processing, and system monitoring to make Windows feel more like a Unix-based system.
 *Note:* Original scripts developed by ch1brikess.
 
-### 🎨 **clink**
+### **clink**
 *Description:* A utility that enhances the visual appearance and functionality of the Windows Command Prompt (cmd.exe), adding features like syntax highlighting, better tab completion, and a more modern look.
 
 ---
