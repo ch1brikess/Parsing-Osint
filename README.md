@@ -64,7 +64,7 @@ This project is a compilation of essential OSINT utilities designed to streamlin
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/-My-Pasing-Osint-Tools.git
+   git clone https://github.com/ch1brikess/-My-Parsing-Osint-Tools.git
    cd -My-Pasing-Osint-Tools
    ```
 
@@ -186,7 +186,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/yourusername/-My-Pasing-Osint-Tools.git
+   git clone https://github.com/ch1brikess/-My-Parsing-Osint-Tools.git
    cd -My-Pasing-Osint-Tools
    ```
 
