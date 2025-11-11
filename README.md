@@ -1,5 +1,5 @@
-# -My-Pasing-Osint-Tools (EN)
-
+# -My-Pasing-Osint-Tools
+## EN
 **A powerful collection of OSINT scripts curated and partially modified by ch1brikess.**
 
 This repository serves as a personal toolkit, bundling some of the most effective open-source intelligence tools available, along with custom modifications and additions. It includes both third-party projects I've adapted for my workflow and original scripts developed by myself and collaborators.
@@ -12,7 +12,8 @@ This repository serves as a personal toolkit, bundling some of the most effectiv
 5. [Disclaimer](#disclaimer)
 6. [Contributing](#contributing)
 7. [License](#license)
-8. [RU](#-My-Pasing-Osint-Tools (RU))
+8. [RU](#RU)
+9. [EN](#EN)
 
 ---
 
@@ -121,7 +122,8 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-# -My-Pasing-Osint-Tools (RU)
+# -My-Pasing-Osint-Tools
+## RU
 
 **Мощнейшая коллекция OSINT скриптов, собранная и частично модифицированная ch1brikess.**
 
