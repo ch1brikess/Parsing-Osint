@@ -1,4 +1,4 @@
-# -My-Pasing-Osint-Tools (EN/RU)
+# -My-Pasing-Osint-Tools (EN)
 
 **A powerful collection of OSINT scripts curated and partially modified by ch1brikess.**
 
@@ -12,6 +12,7 @@ This repository serves as a personal toolkit, bundling some of the most effectiv
 5. [Disclaimer](#disclaimer)
 6. [Contributing](#contributing)
 7. [License](#license)
+8. [RU](# -My-Pasing-Osint-Tools (RU))
 
 ---
 
@@ -120,7 +121,7 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 
 ---
 
-# -My-Pasing-Osint-Tools (RU/EN)
+# -My-Pasing-Osint-Tools (RU)
 
 **Мощнейшая коллекция OSINT скриптов, собранная и частично модифицированная ch1brikess.**
 
